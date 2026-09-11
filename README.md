@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jannik Engel</h1>
-<h3 align="center">A trainee working for COUNT+CARE GMBH & CO. KG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannikengel&label=Profile%20views&color=0e75b6&style=flat" alt="jannikengel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannikengel" alt="jannikengel" /></a> </p>
 
-- 🔭 I’m currently working on **PET-Bottle Recycler**
+- 🔭 I’m currently working on **Application**
 
 - 🌱 I’m currently learning **Python, Docker, HTML, CSS, JS**
 
